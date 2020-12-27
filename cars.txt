@@ -1,0 +1,5 @@
+mini bus, 1, mersedes, 15.1, 150, 3000, PASSENGER
+car, 2, bmw, 15.2, 250, 6000, PREMIUM
+mini bus, 4, mersedes, 16.1, 180, 3500, CARGO
+car, 2, bmw, 15.3, 250, 6000, STANDARD
+mini bus, 7, mersedes, 16.2, 180, 3500, UNIVERSAL
